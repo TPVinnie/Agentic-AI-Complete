@@ -1,0 +1,15 @@
+ipykernel  # enables running of ipython cells
+python-dotenv  # enables reading of .env file variables
+numpy
+torch
+transformers
+sentence-transformers
+langchain
+langchain-openai
+langchain-groq
+langchain-google-genai
+langchain-core
+langchain-community
+langchain_huggingface
+pypdf
+bs4
